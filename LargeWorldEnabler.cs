@@ -18,7 +18,7 @@ namespace LargeWorldEnabler
 			// Older versions don't have the correct variables.
 			if (ModLoader.version < new Version(0, 8, 3, 2))
 			{
-				throw new Exception("\nThis mod uses functionality only present in the latest tModLoader. Please update tModLoader to use this mod\n\n");
+				throw new Exception("\nThis mod uses functionality only present in the latest tModLoader versions. Please update tModLoader to use this mod\n\n");
 			}
 
 			//8400 x 2400 -- Actual dimensions of tile array
