@@ -16,7 +16,7 @@ namespace LargeWorldEnabler
 		public override void Load()
 		{
 			// Older versions don't have the correct variables.
-			if (ModLoader.version < new Version(0, 8, 3, 2))
+			if (ModLoader.version < new Version(0, 9, 0, 0))
 			{
 				throw new Exception("\nThis mod uses functionality only present in the latest tModLoader versions. Please update tModLoader to use this mod\n\n");
 			}

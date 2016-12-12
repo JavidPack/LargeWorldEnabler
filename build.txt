@@ -1,5 +1,5 @@
 ﻿author = jopojelly
-version = 0.1.0.1
+version = 0.1.0.2
 displayName = Large World Enabler
 homepage = http://forums.terraria.org/index.php?threads/large-world-enabler.47751/
 hideCode = false
