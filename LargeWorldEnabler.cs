@@ -6,6 +6,7 @@ using Terraria.ModLoader;
 
 namespace LargeWorldEnabler
 {
+	// TODO: Fix map drawing in tModLoader. (bounds, but maybe also something else apparently)
 	public class LargeWorldEnabler : Mod
 	{
 		public LargeWorldEnabler()
