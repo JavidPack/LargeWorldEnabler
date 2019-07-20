@@ -3,5 +3,3 @@
 Note that with mods loaded, it may not be possible to load a world that large due to memory limits. I recommend a 16800x1200 or 16800x2400 world as worlds that are taller than Large worlds tend to be boring.
 
 Generate a world to use with this mod using TerraCustom. TerraCustom will load tmodloader mods, so you don't have to worry about missing out on mod biomes. (http://forums.terraria.org/index.php?threads/terracustom-for-1-3.35346/)
-
-This mod is also necessary if loading a world generated using Alternate Dimensions Mod (WIP) that is more than 8400 tiles in width.

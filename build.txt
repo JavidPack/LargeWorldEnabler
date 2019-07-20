@@ -1,8 +1,8 @@
 ﻿author = jopojelly
-version = 0.1.2
+version = 0.2
 displayName = Large World Enabler
 homepage = http://forums.terraria.org/index.php?threads/large-world-enabler.47751/
 hideCode = false
 hideResources = false
 includeSource = true
-buildIgnore = .vs\*, Properties\*, *.csproj, *.user, obj\*, bin\*, *.config, lib\*, .gitignore
+buildIgnore = .vs\*, Properties\*, *.csproj, *.user, *.config, .gitignore
